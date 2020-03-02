@@ -1,5 +1,5 @@
 # C-projects
-Genetic Algorithm,K-Means Algorithm,Automations
+Genetic Algorithm
 
 
 
